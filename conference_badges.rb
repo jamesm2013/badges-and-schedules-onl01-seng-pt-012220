@@ -7,4 +7,4 @@ end
  
  def assign_rooms (speakers)
    new_arr = []
-   speakers.each_with_index do |
+   speakers.each_with_index do | name , i|
