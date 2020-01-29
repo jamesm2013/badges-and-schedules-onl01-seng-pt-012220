@@ -7,4 +7,4 @@ end
  
  def assign_rooms (speakers)
    new_arr = []
-   speakers
+   speakers.each_with
