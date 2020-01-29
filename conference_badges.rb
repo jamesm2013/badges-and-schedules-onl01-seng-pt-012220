@@ -5,4 +5,4 @@ end
    names.maps { |names| badge_maker (names) }
  end
  
- def assign_
+ def assign_rooms (speakers)
