@@ -1,3 +1,4 @@
 def badge_maker
-  "hello my names is" #{names}
+  "hello my names is #{names}."
   
+end
