@@ -6,4 +6,4 @@ end
  end
  
  def assign_rooms (speakers)
-   new_arr =
+   new_arr = []
