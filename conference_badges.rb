@@ -10,3 +10,5 @@ end
    speakers.each_with_index do | name , i|
      new_arr<< "Hello, #{name}! You'll be assign to room #{ i +1}!
    end
+   new_arr
+ end
