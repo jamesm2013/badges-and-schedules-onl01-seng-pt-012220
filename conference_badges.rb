@@ -1,4 +1,4 @@
 def badge_maker
   "hello my names is #{names}."
 end
- def batch_badge_
+ def batch_badge_cr
