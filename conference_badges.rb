@@ -5,3 +5,4 @@ end
    names.maps { |names| badge_maker (names) }
  end
  
+ def as
